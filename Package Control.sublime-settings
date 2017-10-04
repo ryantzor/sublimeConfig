@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Git",
+		"JavaScript Completions",
+		"JS Snippets",
+		"JSX",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
